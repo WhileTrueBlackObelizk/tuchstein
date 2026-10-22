@@ -1,0 +1,6 @@
+# Sicherheitslücke gefunden? Danke, dass du sie meldest.
+# Found a vulnerability? Thank you for reporting it.
+Contact: mailto:kontakt@example.com
+Expires: 2027-10-22T10:34:58.694Z
+Preferred-Languages: de, en
+Canonical: https://whiletrueblackobelizk.github.io/tuchstein/.well-known/security.txt

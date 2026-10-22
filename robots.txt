@@ -1,0 +1,3 @@
+# Demo – noch nicht indexieren
+User-agent: *
+Disallow: /

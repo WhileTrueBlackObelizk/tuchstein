@@ -1,0 +1,1 @@
+function e(e=``){return`/tuchstein/`.replace(/\/?$/,`/`)+e.replace(/^\//,``)}export{e as t};
